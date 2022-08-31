@@ -1,0 +1,43 @@
+@media screen and (max-width: 600px) {
+  body {
+    width: 100%;
+    height: 100%;
+    font-size: large;
+  }
+  .Rectangle_sign_up_form {
+    width: 20.938rem;
+    margin-top: 100px;
+   
+  }
+  h5,
+  .Sign-Up {
+    width: 12.125rem;
+    height: 3.5rem;
+    font-size: 2.75rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.93;
+    letter-spacing: -1.03px;
+    text-align: center;
+    color: #fff;
+  }
+  .No-credit-card-requi {
+    width: 8.875rem;
+    height: 2.438rem;
+    padding-bottom: 3rem;
+  }
+  .form-control {
+    width: 16.813rem;
+    height: 4.563rem;
+    padding: 1.563rem 0rem 1rem 1rem;
+  }
+ 
+  .btn {
+    width: 16.815rem;
+    height: 3.75rem;
+    font-size: 1rem;  
+    /* padding: 1.063rem 6.688rem 1rem 6.625rem; */
+  }
+  
+}
